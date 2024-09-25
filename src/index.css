@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.location-input {
+  border: none;
+  background-color: #f3f4f6;
+}
+
+.find-button {
+  transition: background-color 0.3s;
+}
+
+.find-button:hover {
+  background-color: #48bb78; 
+}
+
